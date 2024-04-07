@@ -1,5 +1,5 @@
 # COSpro2
-```언어
+
 #include <stdio.h> // 표준 입력 및 출력 관련 함수를 사용하기 위한 헤더 파일 선언
 
 int main(void) // main 함수의 정의, 반환 값은 정수형(int), 매개 변수 없음(void)
@@ -15,4 +15,4 @@ int main(void) // main 함수의 정의, 반환 값은 정수형(int), 매개 �
 
     return 1; // main 함수의 반환 값으로 1을 반환
 }
-```
+
